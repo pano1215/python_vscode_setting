@@ -1,5 +1,5 @@
 # python_vscode_setting
-### Python - VS Code 가상환경 세팅 방
+### Python - VS Code 가상환경 세팅 방법
 --------------------------------------------------
 <p>$\color{#5ad7b7}**** Window 기준 ****$</p>
 
@@ -68,3 +68,50 @@ __8. 가상환경설정확인__
 컨트롤 + 엔터 후 코드 실행 
 
 추가 install 진행
+
+--------------------------------------------------
+### copliot 만료 시 github 학생 인증하기
+
+<p>$\color{#5ad7b7}**** Chrome 기준 ****$</p>
+
+__1. github 이메일 세팅__
+
+<https://github.com/settings/emails>
+
+- Add email address에 이메일 입력 > Add
+  
+- 카이스트 및 타교 이메일 모두 가능 
+
+![Image](https://github.com/user-attachments/assets/90543a14-708c-413f-b016-176ef894fd90)
+
+__2. 이메일 인증__
+
+- Verify email address 클릭
+  
+![Image](https://github.com/user-attachments/assets/e9ba0a25-a156-44bd-bfd5-32159d5f5f9b)
+
+__3. education guthub 접속__
+
+- Student 클릭
+
+<https://education.github.com/discount_requests/application>
+
+![Image](https://github.com/user-attachments/assets/b8645288-b127-4ad1-bf46-c25d7c577569)
+
+__4. 학교 선택__
+
+- Continue 클릭
+  
+![Image](https://github.com/user-attachments/assets/b3198db3-c7d2-4a5f-8fe5-6edbdec9ad80)
+
+ℹ️ <sub>Continue 클릭 후 다음 화면으로 넘어가지 않을 경우 </sub>
+
+<sub>위치 권한 설정</sub>
+
+![Image](https://github.com/user-attachments/assets/90543a14-708c-413f-b016-176ef894fd90)
+
+__5. 재학증명서 업로드__
+
+- Process my application 클릭
+  
+![Image](https://github.com/user-attachments/assets/0cd02bba-79a9-40a5-89d7-f18371cc83c0)
