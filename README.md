@@ -108,10 +108,10 @@ __4. 학교 선택__
 
 <sub>위치 권한 설정</sub>
 
-![Image](https://github.com/user-attachments/assets/90543a14-708c-413f-b016-176ef894fd90)
+![Image](https://github.com/user-attachments/assets/0cd02bba-79a9-40a5-89d7-f18371cc83c0)
 
 __5. 재학증명서 업로드__
 
 - Process my application 클릭
   
-![Image](https://github.com/user-attachments/assets/0cd02bba-79a9-40a5-89d7-f18371cc83c0)
+![Image](https://github.com/user-attachments/assets/4b5dfaab-40f9-4582-a03e-f47c32d4a790)
