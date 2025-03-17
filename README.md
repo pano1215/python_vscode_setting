@@ -34,6 +34,30 @@ __6. 터미널에 명령어 입력__
 ```
 ![Image](https://github.com/user-attachments/assets/9f31ab1f-2d5f-4660-8f32-3936568d42f2)
 
+ℹ️ 만약 path 에러가 발생하는 경우 - path 추가하기
+
+6-1. 시스템 환경변수 편집 접속
+
+![Image](https://github.com/user-attachments/assets/95d639d5-4446-4f8c-b34a-0a8eb241e0ae)
+
+6-2. 환경변수 버튼 클릭
+
+![Image](https://github.com/user-attachments/assets/7f75c508-2124-4615-b9d4-0c63c7389498)
+
+6-3. 시스템변수 > path 클릭 > 확인 클릭
+
+![Image](https://github.com/user-attachments/assets/ba006395-7992-4da4-94c1-0da9f22a2437)
+
+6-4. 현재 로컬pc에서 miniconda가 설치된 경로 추가 > 확인버튼 클릭
+```
+1. miniconda
+2. Library
+3. Scripts
+```
+위 3개 파일의 경로를 추가한다
+
+![Image](https://github.com/user-attachments/assets/4d54e963-a801-4dfe-9397-ba13bc21220f)
+
 ```
 호출된 아나콘다 확인: pip list
 ```
